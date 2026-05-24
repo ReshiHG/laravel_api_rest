@@ -25,3 +25,8 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+# Ignora los archivos relacionados a API keys
+.env
+# Ignora vendor
+/vendor
+
