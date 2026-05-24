@@ -1,0 +1,5 @@
+*.sqlite*
+# Ignora los archivos relacionados a API keys
+.env
+# Ignora vendor
+/vendor
