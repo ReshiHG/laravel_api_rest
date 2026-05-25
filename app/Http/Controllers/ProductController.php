@@ -84,7 +84,7 @@ class ProductController extends Controller
     }
 
     /**
-     * Remove the specified resource from storage.
+     * Eliminar producto
      */
     public function destroy(Product $product)
     {
